@@ -101,6 +101,7 @@
     "vmExtensionName": "[concat(variables('resourcePrefix'), 'Init')]",
     "vmvirtualNetworkName": "[parameters('virtualNetworkName')]",
     "frontEndNSGName": "[parameters('FENSGName')]",
+    "vmPrivateIP": "10.0.0.5",
     "_artifactsLocation": "https://raw.githubusercontent.com/Azure/azure-devops-utils/v0.27.0/",
     "_extensionScript": "install_jenkins.sh",
     "_artifactsLocationSasToken": ""
