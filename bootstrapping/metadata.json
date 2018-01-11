@@ -1,0 +1,7 @@
+{
+  "itemDisplayName": "Azure CICD",
+  "description": "This template deploys a Virtual Network with 3 subnets, 3 Network Security Groups and appropriate security rules. Deploys Jenkins, Ansible master for CICD on Frountend subnet. Deploys webserver on App subnet. Deploys databaseserver on DB subnet",
+  "summary": "Install Virtual Network with DMZ Subnet",
+  "githubUsername": "vijay-prabhakar-hpe",
+  "dateUpdated": "2018-01-11"
+}
