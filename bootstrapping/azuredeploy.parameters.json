@@ -25,6 +25,18 @@
     },
     "DBNSGName": {
       "value": "dbnsg"
+    },
+    "adminUsername": {
+      "value": "azureuser"
+    },
+    "adminPassword": {
+      "value": "GEN-PASSWORD"
+    },
+    "jenkinsDnsPrefix": {
+      "value": "GEN-UNIQUE"
+    },
+    "jenkinsReleaseType": {
+      "value": "LTS"
     }
   }
 }
